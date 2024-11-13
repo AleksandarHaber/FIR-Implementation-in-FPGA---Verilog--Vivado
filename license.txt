@@ -1,0 +1,20 @@
+License: This code file and all the code files should not be used for commercial 
+or research purposes. That is,you are not allowed to use this code if you work for 
+a company, university, or any commercial or research institution without paying 
+an appropriate fee. You are not allowed to use this code for teaching on 
+online learning platforms and you are not allowed to use this code in official
+university courses.
+
+You are not allowed to publicly repost this code. You are not allowed to 
+modify this code in any way. You are not allowed to integrate this code 
+in any type of commercial or research projects. You are not allowed to 
+use this code to generate scientific articles or reports. 
+You are not allowed to use this code to train a large language model 
+or any type of an AI algorithm.
+
+DELIBERATE OR INDELIBERATE VIOLATIONS OF THIS LICENSE 
+WILL INDUCE LEGAL ACTIONS AND LAWSUITS.
+
+Contact information:
+    
+ml.mecheng@gmail.com
