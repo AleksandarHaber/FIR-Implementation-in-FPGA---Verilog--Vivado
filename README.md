@@ -6,6 +6,7 @@
 
 
 READ THE LICENSE AT THE END - THIS IS NOT FREE CODE AND SOFTWARE! 
+
 This repository contains Verilog, Vivado, and FPGA files that implement the Finite Impulse Response Filter (FIR Filter) in Verilog and Vivado.  
 
 The YouTube tutorial explaining the posted files and how to implement the FIR filter in FPGAs is given here:  
