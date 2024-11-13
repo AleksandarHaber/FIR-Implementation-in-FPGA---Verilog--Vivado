@@ -2,7 +2,7 @@
 
 ![Filtered results](https://github.com/AleksandarHaber/FIR-Implementation-in-FPGA---Verilog--Vivado/blob/main/results.png)
 
-![Filter diagram] (https://github.com/AleksandarHaber/FIR-Implementation-in-FPGA---Verilog--Vivado/blob/main/drawing.png)
+![Filter diagram](https://github.com/AleksandarHaber/FIR-Implementation-in-FPGA---Verilog--Vivado/blob/main/drawing.png)
 
 This repository contains Verilog, Vivado, and FPGA files that implement the Finite Impulse Response Filter (FIR Filter) in Verilog and Vivado.  
 
